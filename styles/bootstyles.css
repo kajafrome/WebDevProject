@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+.headCenter{
+
+text-align: center;
+}
+
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.header {
+    padding: 20px;
+    text-align: center;
+    background: tan;
+    color: black;
+    font-size: 20px;
+  }
+  .footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+  }
